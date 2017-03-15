@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="main_page_of_the_app">Main Page of the app</string>
+    <string name="click_here">Click here</string>
+    <string name="second_page">Second Page</string>
+    <string name="click_to_go_back">Click to go back</string>
+    <string name="exit">Exit</string>
+
+</resources>
